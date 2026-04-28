@@ -90,6 +90,7 @@ if(LIBIGL_TUTORIALS_CHAPTER6)
     igl_copy_dll(609_Boolean)
     igl_add_tutorial(610_CSGTree igl::glfw igl_copyleft::cgal)
     igl_copy_dll(610_CSGTree)
+    igl_add_tutorial(611_MeshWithSkeleton igl_copyleft::tetgen)
 endif()
 
 # Chapter 7
